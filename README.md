@@ -7,5 +7,6 @@ automations, and AI-powered analytical products.
 - 📊 Experienced in **SQL, Python, Tableau and Looker Studio**
 - 🧠 Learning **Machine Learning, Statistics and AI Engineering**
 - 💼 Experienced across EdTech, Hospitality, Fleet and EV analytics
-- 📍 Based in Bengaluru, India
+- 💻 Working remotely as a **Senior Data Analyst**
+- 📍 Based in India
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/nayamsoni)
