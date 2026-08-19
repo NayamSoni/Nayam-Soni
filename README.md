@@ -34,6 +34,8 @@ visualizations, and natural-language data exploration.
 - Advanced SQL problem-solving
 - AI engineering and RAG applications
 - Building production-ready data products
+
+## 📬 Connect With Me
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/nayamsoni)
 - **Email:** nayam.soni16@gmail.com
 
